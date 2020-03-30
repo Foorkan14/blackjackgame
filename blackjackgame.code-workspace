@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/Users/passwordis1234/digitalcrafts/python"
+		},
+		{
+			"path": "/Users/passwordis1234/digitalcrafts"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
